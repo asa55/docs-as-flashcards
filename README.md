@@ -1,5 +1,3 @@
-# [docs-as-flashcards](https://asa55.github.io/docs-as-flashcards/)
-
 ### Docs are boring, but very important.
 
 I am a working professional. I have a metric ton of information for various technologies I need crammed into my brain to perform day to day tasks.
@@ -10,7 +8,15 @@ Equally unfortunately is that few tasks are as potent a sedative 😪.
 
 For me personally, a more engaging learning path was necessary in order to make sure I could keep all the information I need at front of mind. Solving this pain point is why `docs-as-flashcards` exists.
 
-Anki is an open-source flashcard app freely available on desktop and mobile (search for it in your favorite app store). `docs-as-flashcards` projects accept specially formatted Markdown files that I authored as input, and generates Anki-compatile flashcard decks as output. Instructions on how to download and import these decks into Anki is provided. The flashcards themselves reflect the content of official documentation, and each flashcard is tagged according to where exactly in the docs the information was derived from. So when you study a flashcard, you can look at the tag and trace it back to exactly what page it came from in the official docs, and vice versa. 
+All `*-docs-as-flashcards` code repositories I own contain markdown files, which have a GitHub Action that converts them into a flashcard deck. The flashcard deck itself is a `.apkg` file, which is compatible with a popular and free open source flashcard app called Anki.
+
+To use these flashcards,
+
+1. Download Anki on desktop or mobile
+2. Download the `.apkg` files from any or all of the below listed projects (instructions are provided)
+3. Use Anki to import the `.apkg` file
+4. You're off and running
+5. Each of these projects use CalVer (a datetime-based versioning convention). Keep a lookout for updated versions, you can delete the old deck from Anki and import the new one when you're ready. Old versions will be retained here on GitHub as previous releases
 
 #### Current offerings:
 
