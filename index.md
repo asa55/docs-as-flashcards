@@ -1,8 +1,3 @@
----
-title: Home
-layout: home
----
-
 # Docs are boring, but very important
 
 If you want to learn anything fast, or deeply, rote memorization is an important step in the process.
