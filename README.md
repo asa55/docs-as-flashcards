@@ -1,8 +1,3 @@
----
-title: Home
-layout: home
----
-
 # [docs-as-flashcards](https://asa55.github.io/docs-as-flashcards/)
 
 ### Docs are boring, but very important.
