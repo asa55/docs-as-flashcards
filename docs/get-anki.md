@@ -15,4 +15,4 @@ The official desktop version of Anki can be downloaded in a few ways:
 - For your desktop from Chocolatey (if you're a Windows user, Chocolatey is a fantastic way to manage your computer's software)
 - For your desktop from the internet (shown below)
 
-![how to download chocolatey](./DownloadAnkiFromWeb.mp4)
+![how to download chocolatey](https://github.com/asa55/docs-as-flashcards/blob/main/docs/DownloadAnkiFromWeb.mp4)
