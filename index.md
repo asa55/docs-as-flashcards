@@ -5,6 +5,8 @@ layout: home
 
 # The `*-docs-as-flashcards` Project
 
+For devs bored to tears by docs who need to learn them anyways 😭
+
 There are several GitHub repos that support the `*-docs-as-flashcards` project. Instead of making you navigate to each one individually, [this webpage](https://asa55.github.io/docs-as-flashcards/) is your one-stop-shop to peruse and download all the flashcard decks currently available.
 
 ### Quickstart
