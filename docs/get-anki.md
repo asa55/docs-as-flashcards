@@ -8,11 +8,9 @@ nav_order: 2
 
 To use flashcards from any `*docs-as-flashcards` project, you'll need to download Anki, a popular, free, open-source flashcard app.
 
-**❗WARNING:** Don't download `ankiapp`! As far as I'm aware, `ankiapp` isn't malware, but they more or less ripped Anki, which is free, for a paid version of the same. `ankiweb` is legit, it's the official and original version of Anki. See [AnkiWeb.net](https://ankiweb.net/about)
+**❗WARNING:** Don't download `ankiapp`! As far as I'm aware, `ankiapp` isn't malware, but they more or less ripped Anki, which is free, for a paid version of the same. `ankiweb` is legit, it's the official and original version of Anki. See [AnkiWeb.net](https://ankiweb.net/about). Also note that [apps.ankiweb.net](https://apps.ankiweb.net/), the official download link, is different than `ankiapp` (which I won't link here for obvious reasons).
 
 The official desktop version of Anki can be downloaded in a few ways:
 - For your phone from your favorite mobile app store
 - For your desktop from Chocolatey (if you're a Windows user, Chocolatey is a fantastic way to manage your computer's software)
-- For your desktop from the internet (shown below)
-
-![how to download chocolatey](https://github.com/asa55/docs-as-flashcards/blob/main/docs/DownloadAnkiFromWeb.mp4)
+- For your desktop from the internet (https://apps.ankiweb.net/)
