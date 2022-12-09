@@ -10,7 +10,7 @@ For me personally, a more engaging learning path was necessary in order to make 
 
 All `*-docs-as-flashcards` code repositories I own contain markdown files, which have a GitHub Action that converts them into a flashcard deck. The flashcard deck itself is a `.apkg` file, which is compatible with a popular and free open source flashcard app called Anki.
 
-To use these flashcards,
+#### To use these flashcards:
 
 1. Download Anki on desktop or mobile
 2. Download the `.apkg` files from any or all of the below listed projects (instructions are provided)
