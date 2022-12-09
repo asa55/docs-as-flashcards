@@ -3,19 +3,21 @@ title: Home
 layout: home
 ---
 
-# [docs-as-flashcards](https://asa55.github.io/docs-as-flashcards/)
+# The `*-docs-as-flashcards` Project
 
-### Docs are boring, but very important.
+There are several codebases that support this project. The `docs-as-flashcards` repository provides a static website (built with GitHub Pages) that you can browse to learn more about the project, here: https://asa55.github.io/docs-as-flashcards/
 
-I am a working professional. I have a metric ton of information for various technologies I need crammed into my brain to perform day to day tasks.
+### Quickstart
 
-101's, bootcamps, and introductory courses haven't cut it for a long time at this point in my career, it only matters that I know certain tooling deeply. To this extent, the only thing that really does the trick is reading and understanding the official documentation.
+- download the free open-source Anki app
+- download flashcards from any `*-docs-as-flashcards` repository (see "Releases") (links below)
+- import flashcards into Anki
 
-Equally unfortunately is that few tasks are as potent a sedative 😪.
+and that's it! You're up and running.
 
-For me personally, a more engaging learning path was necessary in order to make sure I could keep all the information I need at front of mind. Solving this pain point is why `docs-as-flashcards` exists.
+### Why `*-docs-as-flashcards` exists
 
-Anki is an open-source flashcard app freely available on desktop and mobile (search for it in your favorite app store). `docs-as-flashcards` projects accept specially formatted Markdown files that I authored as input, and generates Anki-compatile flashcard decks as output. Instructions on how to download and import these decks into Anki is provided. The flashcards themselves reflect the content of official documentation, and each flashcard is tagged according to where exactly in the docs the information was derived from. So when you study a flashcard, you can look at the tag and trace it back to exactly what page it came from in the official docs, and vice versa. 
+Docs are boring but very important. Flashcards can help keep your eyes from glazing over as you start digging into official documentation to learn new concepts and/or refresh your memory. I am building these flashcards manually to reflect official docs (for topic I care about) as closely as possible while following good flashcard conventions. These flashcard decks are built using GitHub Actions for my convenience, but it also means it's easy for me to share them. If you're interested in any of these topics, feel free to download a deck and start using it. If you want to see more from a project, reach out to me via that project's issues section. There is a relatively mature project board to track what topics I intend to add in the future per each project, you'll see that in the Projects tab here, and in each appropriate `*-docs-as-flashcards` repository. Hope you enjoy. If you like this project doing and want to see more of it, consider giving this project a ⭐ in GitHub to show your interest
 
 #### Current offerings:
 
