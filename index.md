@@ -1,18 +1,24 @@
-# Docs are boring, but very important
+---
+title: Home
+layout: home
+---
 
-If you want to learn anything fast, or deeply, rote memorization is an important step in the process.
+# [docs-as-flashcards](https://asa55.github.io/docs-as-flashcards/)
 
-Flashcards are one great way to pound basic bits of information into your brain, and retain massive volumes of information. Flashcards aren't a panacea for deeper understanding, but figuring out how all the puzzle pieces fit together becomes a heck of a lot easier when you know all the pieces.
+### Docs are boring, but very important.
 
-This is exactly where `*-docs-as-flashcards` comes in. I've taken the documentation and converted the critical information into a flashcard format, so that you and/or your team can study-up as quickly and efficiently as possible, then go off and confidently use these technologies to achieve what you've set out to achieve.
+I am a working professional. I have a metric ton of information for various technologies I need crammed into my brain to perform day to day tasks.
 
-Anki by far the most popular free and open-source flashcard app around, available for both desktop and mobile. Anki is how `*-docs-as-flashcards`-related flashcard decks can be used.
+101's, bootcamps, and introductory courses haven't cut it for a long time at this point in my career, it only matters that I know certain tooling deeply. To this extent, the only thing that really does the trick is reading and understanding the official documentation.
 
-You can find Anki on their website or your favorite app store (or in Chocolatey if you're a Windows user). It's free and a lightweight download.
+Equally unfortunately is that few tasks are as potent a sedative 😪.
 
-Then, download any `*-docs-as-flashcards` flashcard deck, links to the `.apkg` Anki flashcard deck files are provided below. These can be imported directly into Anki (Anki provides an import button built into the app). Then you're off and running.
+For me personally, a more engaging learning path was necessary in order to make sure I could keep all the information I need at front of mind. Solving this pain point is why `docs-as-flashcards` exists.
 
-Currently, the following`*-docs-as-flashcards` projects exist, and the content is growing (`.apkg` download instructions are provided):
+Anki is an open-source flashcard app freely available on desktop and mobile (search for it in your favorite app store). `docs-as-flashcards` projects accept specially formatted Markdown files that I authored as input, and generates Anki-compatile flashcard decks as output. Instructions on how to download and import these decks into Anki is provided. The flashcards themselves reflect the content of official documentation, and each flashcard is tagged according to where exactly in the docs the information was derived from. So when you study a flashcard, you can look at the tag and trace it back to exactly what page it came from in the official docs, and vice versa. 
 
-- [asa55 Azure Virtual Machines Docs](https://github.com/asa55/azure-virtual-machines-docs-as-flashcards/releases)
-- [asa55 Azure Virtual Network Docs](https://github.com/asa55/azure-virtual-network-docs-as-flashcards/releases)
+#### Current offerings:
+
+- [asa55 Azure Virtual Machines Docs](https://github.com/asa55/azure-virtual-machines-docs-as-flashcards/releases) flashcard deck derived from these [official docs](https://learn.microsoft.com/azure/virtual-machines/)
+- [asa55 Azure Virtual Network Docs](https://github.com/asa55/azure-virtual-network-docs-as-flashcards/releases) flashcard deck derived from these [official docs](https://learn.microsoft.com/azure/virtual-network/)
+- [asa55 Azure Blob Storage Docs](https://github.com/asa55/azure-blob-storage-docs-as-flashcards/releases) flashcard deck derived from these [official docs](https://learn.microsoft.com/azure/storage/blobs/)
