@@ -17,3 +17,7 @@ The [`*-docs-as-flashcards`](https://asa55.github.io/docs-as-flashcards/) and [`
 Of all the flashcard apps out there, [Anki](https://github.com/ankitects/anki) was selected to be leveraged by the [`*-docs-as-flashcards` project](https://asa55.github.io/docs-as-flashcards/) because it's extremely popular with a great community, free, open-source, and easy do download for desktop and mobile.
 
 Of all the conversion tools that convert different inputs to Anki, [`md2apkg`](https://github.com/Steve2955/md2apkg) was selected because the syntax is simple. The flashcard definition `.md` files are very human-readable, which makes maintenance and new contributions a breeze. I didn't want to suffer a learning curve every time I decide to update or contribute new flashcards in the future. `md2apkg` makes this easy imho.
+
+## A bonus gift for you 😄
+
+You too can generate your own custom Anki-compatible flashcard decks on GitHub without downloading any software or tooling to your device (except the Anki app itself and your custom flashcard deck). Complete instructions are provided on the [`md2apkg-run` project site](https://github.com/asa55/md2apkg-run)
