@@ -10,11 +10,11 @@ nav_order: 2
 
 ### Mobile flashcard view in Anki
 
-![mobile screenshot of Anki flashcard](./mobile-view.jpg)
+<img src="./mobile-view.jpg" width="300">
 
 ### Desktop flashcard view in Anki
 
-![desktop screenshot of Anki flashcard](./desktop-view.jpg)
+<img src="./desktop-view.jpg" width="450">
 
 ### See more examples
 
