@@ -29,3 +29,4 @@ There is a GitHub repository for each; if you want to see more from a particular
 - [asa55 Azure Virtual Machines Docs](https://github.com/asa55/azure-virtual-machines-docs-as-flashcards/releases) flashcard deck derived from these [official docs](https://learn.microsoft.com/azure/virtual-machines/)
 - [asa55 Azure Virtual Network Docs](https://github.com/asa55/azure-virtual-network-docs-as-flashcards/releases) flashcard deck derived from these [official docs](https://learn.microsoft.com/azure/virtual-network/)
 - [asa55 Azure Blob Storage Docs](https://github.com/asa55/azure-blob-storage-docs-as-flashcards/releases) flashcard deck derived from these [official docs](https://learn.microsoft.com/azure/storage/blobs/)
+- [asa55 Terraform Language Docs](https://github.com/asa55/terraform-language-docs-as-flashcards/releases) flashcard deck derived from these [official docs](https://developer.hashicorp.com/terraform/language)
