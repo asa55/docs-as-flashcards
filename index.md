@@ -21,6 +21,7 @@ and that's it! You're up and running.
 ### Current offerings:
 
 - [asa55 Azure Blob Storage Docs](https://github.com/asa55/azure-blob-storage-docs-as-flashcards/releases) as flashcards derived from these [official docs](https://learn.microsoft.com/azure/storage/blobs/)
+- [asa55 Azure Service Bus Docs](https://github.com/asa55/azure-service-bus-docs-as-flashcards/releases) as flashcards derived from these [official docs](https://learn.microsoft.com/azure/service-bus-messaging/)
 - [asa55 Azure Virtual Machines Docs](https://github.com/asa55/azure-virtual-machines-docs-as-flashcards/releases) as flashcards derived from these [official docs](https://learn.microsoft.com/azure/virtual-machines/)
 - [asa55 Azure Virtual Network Docs](https://github.com/asa55/azure-virtual-network-docs-as-flashcards/releases) as flashcards derived from these [official docs](https://learn.microsoft.com/azure/virtual-network/)
 - [asa55 C-Sharp Docs](https://github.com/asa55/c-sharp-docs-as-flashcards/releases) as flashcards derived from these [official docs](https://learn.microsoft.com/en-us/dotnet/csharp/)
