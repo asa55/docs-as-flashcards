@@ -21,6 +21,7 @@ and that's it! You're up and running.
 ### Current offerings:
 
 - [asa55 Azure Blob Storage Docs as Flashcards](https://github.com/asa55/azure-blob-storage-docs-as-flashcards/releases) derived from these [official docs](https://learn.microsoft.com/azure/storage/blobs/)
+- (🚧 Coming Soon 🚧) [asa55 Azure Logic Apps Docs as Flashcards](https://github.com/asa55/azure-logic-apps-docs-as-flashcards/releases) derived from these [official docs](https://learn.microsoft.com/en-us/azure/logic-apps/)
 - [asa55 Azure Private Link Docs as Flashcards](https://github.com/asa55/azure-private-link-docs-as-flashcards/releases) derived from these [official docs](https://learn.microsoft.com/en-us/azure/private-link/)
 - [asa55 Azure Service Bus Docs as Flashcards](https://github.com/asa55/azure-service-bus-docs-as-flashcards/releases) derived from these [official docs](https://learn.microsoft.com/azure/service-bus-messaging/)
 - [asa55 Azure Virtual Machines Docs as Flashcards](https://github.com/asa55/azure-virtual-machines-docs-as-flashcards/releases) derived from these [official docs](https://learn.microsoft.com/azure/virtual-machines/)
