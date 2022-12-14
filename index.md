@@ -20,15 +20,19 @@ and that's it! You're up and running.
 
 ### Current offerings:
 
-- [asa55 Azure Blob Storage Docs as Flashcards](https://github.com/asa55/azure-blob-storage-docs-as-flashcards/releases) derived from these [official docs](https://learn.microsoft.com/azure/storage/blobs/)
-- (🚧 Coming Soon 🚧) [asa55 Azure Key Vault Docs as Flashcards](https://github.com/asa55/azure-key-vault-docs-as-flashcards/releases) derived from these [official docs](https://learn.microsoft.com/azure/key-vault/general/)
-- [asa55 Azure Logic Apps Docs as Flashcards](https://github.com/asa55/azure-logic-apps-docs-as-flashcards/releases) derived from these [official docs](https://learn.microsoft.com/en-us/azure/logic-apps/)
-- [asa55 Azure Private Link Docs as Flashcards](https://github.com/asa55/azure-private-link-docs-as-flashcards/releases) derived from these [official docs](https://learn.microsoft.com/en-us/azure/private-link/)
-- [asa55 Azure Service Bus Docs as Flashcards](https://github.com/asa55/azure-service-bus-docs-as-flashcards/releases) derived from these [official docs](https://learn.microsoft.com/azure/service-bus-messaging/)
-- [asa55 Azure Virtual Machines Docs as Flashcards](https://github.com/asa55/azure-virtual-machines-docs-as-flashcards/releases) derived from these [official docs](https://learn.microsoft.com/azure/virtual-machines/)
-- [asa55 Azure Virtual Network Docs as Flashcards](https://github.com/asa55/azure-virtual-network-docs-as-flashcards/releases) derived from these [official docs](https://learn.microsoft.com/azure/virtual-network/)
-- [asa55 C-Sharp Docs as Flashcards](https://github.com/asa55/c-sharp-docs-as-flashcards/releases) derived from these [official docs](https://learn.microsoft.com/en-us/dotnet/csharp/)
-- [asa55 Terraform Language Docs as Flashcards](https://github.com/asa55/terraform-language-docs-as-flashcards/releases) derived from these [official docs](https://developer.hashicorp.com/terraform/language)
+- [Azure Blob Storage Flashcards](https://github.com/asa55/azure-blob-storage-docs-as-flashcards/releases) derived from these [official docs](https://learn.microsoft.com/azure/storage/blobs/)
+- (🚧 Coming Soon 🚧) [Azure Key Vault Flashcards](https://github.com/asa55/azure-key-vault-docs-as-flashcards/releases) derived from these [official docs](https://learn.microsoft.com/azure/key-vault/general/)
+- [Azure Logic Apps Flashcards](https://github.com/asa55/azure-logic-apps-docs-as-flashcards/releases) derived from these [official docs](https://learn.microsoft.com/en-us/azure/logic-apps/)
+- [Azure Private Link Flashcards](https://github.com/asa55/azure-private-link-docs-as-flashcards/releases) derived from these [official docs](https://learn.microsoft.com/en-us/azure/private-link/)
+- [Azure Service Bus Flashcards](https://github.com/asa55/azure-service-bus-docs-as-flashcards/releases) derived from these [official docs](https://learn.microsoft.com/azure/service-bus-messaging/)
+- [Azure Virtual Machines Flashcards](https://github.com/asa55/azure-virtual-machines-docs-as-flashcards/releases) derived from these [official docs](https://learn.microsoft.com/azure/virtual-machines/)
+- [Azure Virtual Network Flashcards](https://github.com/asa55/azure-virtual-network-docs-as-flashcards/releases) derived from these [official docs](https://learn.microsoft.com/azure/virtual-network/)
+- [C# Flashcards](https://github.com/asa55/c-sharp-docs-as-flashcards/releases) derived from these [official docs](https://learn.microsoft.com/en-us/dotnet/csharp/)
+- [Terraform Flashcards](https://github.com/asa55/terraform-language-docs-as-flashcards/releases) derived from these [official docs](https://developer.hashicorp.com/terraform/language)
+
+### What's next:
+
+Docs contain massive volumes of information. I'm prioritizing what sections get added to each `*-docs-as-flashcards` deck using a Roadmap (aka GitHub Project) for each. [All `*-docs-as-flashcards` project Roadmaps can be found here](https://github.com/asa55/docs-as-flashcards/projects?query=is%3Aopen)
 
 ### Why `*-docs-as-flashcards` exists
 
