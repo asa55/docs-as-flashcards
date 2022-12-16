@@ -4,7 +4,7 @@ title: FAQ
 nav_order: 4
 ---
 
-## FAQ
+# FAQ
 
 Answers to questions nobody has ever actually asked me. So it's not false that these are all asked equally frequently.
 
@@ -46,6 +46,10 @@ Anki is a powerful app. It offers many types of advanced flashcard formats (Cloz
   - I copy-paste the docs into a new `.md` file, split the concepts into distinct flashcards, and where necessary add context and arrange the wording so that it fits a Q&A format
   - This workflow ensures that the flashcard deck is comprehensive, and that the flashcard language mirrors the official docs as closely as possible
 - Concepts are prioritized
+
+### Does the double-colon (`::`) mean something special?
+
+The double-colon (`::`) means something special within Anki, which is why it is used so heavily in the `*-docs-as-flashcards` projects. All nested tags in these projects are separated with a double-colon (`::`). Also, you can edit the names of decks within Anki (e.g. "MyDeck" for one, and "MyDeck::MySubDeck" for another) and Anki will automatically show these as nested decks within the app. It can be pretty convenient. There is also a popular "nested tags" extension for Anki Desktop. I don't believe it's available for mobile, but the tagging convention used in `*-docs-as-flashcards` will work nicely with it. Also, for those of us (i.e. mobile users) who can't download the nested tags extension, the `*-docs-as-flashcards` flashcards are also tagged with every tag in the nest, to simulate the benefit provided by the nested tags extension. (This is why for example a flashcard tagged with "Overview::About-Azure-Functions" is also tagged with just "Overview". If you filter for the "Overview" tag, you'll get to study everything nested inside with ease, even without downloading the nested tags extension).
 
 ### What are the limitations of `*-docs-as-flashcards`?
 
