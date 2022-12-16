@@ -10,6 +10,11 @@ For working professionals bored to tears by docs who need to learn them anyways 
 
 (At least the docs I care about :)
 
+## Does this (check out the [Tutorial](./tutorial))
+
+<img src="./docs/5.gif" width="250">
+
+
 ### Quickstart
 
 - First, download the **free** open-source Anki flashcard app
