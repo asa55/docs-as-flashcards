@@ -14,10 +14,6 @@ The [`*-docs-as-flashcards` project](https://asa55.github.io/docs-as-flashcards/
 
 The engine that does this is called [`md2apkg`](https://github.com/Steve2955/md2apkg) that I did not write, wrapped in a GitHub Actions workflow I wrote ([`md2apkg-run`](https://github.com/asa55/md2apkg-run)) so that GitHub can do the heavy lifting associated with the conversion process.
 
-#### A bonus gift for you 😄
-
-You too can generate your own custom Anki-compatible flashcard decks on GitHub without downloading any software or tooling to your device (except the Anki app itself and your custom flashcard deck). Complete instructions are provided on the [`md2apkg-run` project site](https://github.com/asa55/md2apkg-run)
-
 ### Is this project affiliated with the Anki or `md2apkg` projects?
 
 The [`*-docs-as-flashcards`](https://asa55.github.io/docs-as-flashcards/) and [`md2apkg-run`](https://github.com/asa55/md2apkg-run) projects are not affiliated with (but grateful to) the [`md2apkg` project](https://github.com/Steve2955/md2apkg) and the [Anki project](https://github.com/ankitects/anki).
@@ -50,6 +46,14 @@ Anki is a powerful app. It offers many types of advanced flashcard formats (Cloz
 ### Does the double-colon (`::`) mean something special?
 
 The double-colon (`::`) means something special within Anki, which is why it is used so heavily in the `*-docs-as-flashcards` projects. All nested tags in these projects are separated with a double-colon (`::`). Also, you can edit the names of decks within Anki (e.g. "MyDeck" for one, and "MyDeck::MySubDeck" for another) and Anki will automatically show these as nested decks within the app. It can be pretty convenient. There is also a popular "nested tags" extension for Anki Desktop. I don't believe it's available for mobile, but the tagging convention used in `*-docs-as-flashcards` will work nicely with it. Also, for those of us (i.e. mobile users) who can't download the nested tags extension, the `*-docs-as-flashcards` flashcards are also tagged with every tag in the nest, to simulate the benefit provided by the nested tags extension. (This is why for example a flashcard tagged with "Overview::About-Azure-Functions" is also tagged with just "Overview". If you filter for the "Overview" tag, you'll get to study everything nested inside with ease, even without downloading the nested tags extension).
+
+### What is `md2apkg-run`?
+
+It's a bonus gift for you 😄
+
+`md2apkg-run` is a wrapper I wrote around `md2apkg` that automatically applies the right tags for all `*-docs-as-flashcards` projects, and of course you can use it too to create and tag your own Anki flashcards.
+
+You too can generate your own custom Anki-compatible flashcard decks on GitHub without downloading any software or tooling to your device (except the Anki app itself and your custom flashcard deck). Complete instructions are provided on the [`md2apkg-run` project site](https://github.com/asa55/md2apkg-run)
 
 ### What are the limitations of `*-docs-as-flashcards`?
 
