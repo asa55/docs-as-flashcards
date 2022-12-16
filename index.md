@@ -12,7 +12,7 @@ For working professionals bored to tears by docs who need to learn them anyways 
 
 ## Does this (check out the [Tutorial](./docs/tutorial))
 
-<img src="./docs/5.gif" width="250">
+<img src="./docs/5.gif" width="175">
 
 
 ### Quickstart
