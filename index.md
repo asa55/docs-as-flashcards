@@ -10,7 +10,7 @@ For working professionals bored to tears by docs who need to learn them anyways 
 
 (At least the docs I care about :)
 
-## Does this (check out the [Tutorial](./tutorial))
+## Does this (check out the [Tutorial](./docs/tutorial))
 
 <img src="./docs/5.gif" width="250">
 
