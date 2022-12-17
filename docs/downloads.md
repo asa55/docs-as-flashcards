@@ -8,6 +8,7 @@ nav_order: 2
 
 Topic                  | Official Docs                                                    | as Flashcards
 ---                    | ---                                                              | ---
+Azure API Management   | [Read](https://learn.microsoft.com/azure/api-management/)        | [Download](https://github.com/asa55/azure-api-management-docs-as-flashcards/releases) 
 Azure App Service      | [Read](https://learn.microsoft.com/azure/app-service/)           | [Download](https://github.com/asa55/azure-app-service-docs-as-flashcards/releases) 
 Azure Blob Storage     | [Read](https://learn.microsoft.com/azure/storage/blobs/)         | [Download](https://github.com/asa55/azure-blob-storage-docs-as-flashcards/releases) 
 Azure Functions        | [Read](https://learn.microsoft.com/azure/azure-functions/)       | [Download](https://github.com/asa55/azure-functions-docs-as-flashcards/releases) 
