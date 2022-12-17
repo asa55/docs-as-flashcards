@@ -8,6 +8,7 @@ nav_order: 2
 
 Topic                  | Official Docs                                                    | as Flashcards
 ---                    | ---                                                              | ---
+Azure App Service      | [Read](https://learn.microsoft.com/azure/app-service/)           | [Download](https://github.com/asa55/azure-app-service-docs-as-flashcards/releases) 
 Azure Blob Storage     | [Read](https://learn.microsoft.com/azure/storage/blobs/)         | [Download](https://github.com/asa55/azure-blob-storage-docs-as-flashcards/releases) 
 Azure Functions        | [Read](https://learn.microsoft.com/azure/azure-functions/)       | [Download](https://github.com/asa55/azure-functions-docs-as-flashcards/releases) 
 Azure Key Vault        | [Read](https://learn.microsoft.com/azure/key-vault/general/)     | [Download](https://github.com/asa55/azure-key-vault-docs-as-flashcards/releases)
