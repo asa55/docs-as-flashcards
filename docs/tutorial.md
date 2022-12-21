@@ -4,26 +4,28 @@ title: Tutorial
 nav_order: 3
 ---
 
-## See what `*-docs-as-flashcards` does, actually 👀
+# See what `*-docs-as-flashcards` does, actually 👀
 
 `*-docs-as-flashcards` projects create `.apkg` flashcard decks you can import into Anki. After you have Anki installed, here's how to download and use `*-docs-as-flashcards` flashcards (demo is on the mobile app, but the concepts are the same for the desktop version):
 
-### Step 1: From Downloads, select Download, scroll down to get `flashcards.zip`
+<br>
 
-<img src="./1.gif" width="250">
+## Step 1: From [Downloads](./downloads), select Download, scroll down to get `flashcards.zip`
 
-### Step 2: Extract `Deck.apkg` from `flashcards.zip`
+<img src="./1.gif" width="250"><br><br>
 
-<img src="./2.gif" width="250">
+## Step 2: Extract `Deck.apkg` from `flashcards.zip`
 
-### Step 3: From Anki, import `Deck.apkg`
+<img src="./2.gif" width="250"><br><br>
 
-<img src="./3.gif" width="250">
+## Step 3: From Anki, import `Deck.apkg`
 
-### Step 4: Optionally, limit your study session to specific tags (NOTE: flashcard tags are based on, and always align with, the navigation bar from the official docs)
+<img src="./3.gif" width="250"><br><br>
 
-<img src="./4.gif" width="250">
+## Step 4: Optionally, limit your study session to specific tags (NOTE: flashcard tags are based on, and always align with, the navigation bar from the official docs)
 
-### Step 5: Start your study session 🎉
+<img src="./4.gif" width="250"><br><br>
+
+## Step 5: Start your study session 🎉
 
 <img src="./5.gif" width="250">
