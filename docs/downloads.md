@@ -8,11 +8,11 @@ nav_order: 2
 
 ## Languages
 
-Topic                           | Official Docs                                              | as Flashcards
----                             | ---                                                        | ---
-C#                              | [Read](https://learn.microsoft.com/en-us/dotnet/csharp/)   | [Download](https://github.com/asa55/c-sharp-docs-as-flashcards/releases)
-(🚧 coming soon 🚧) JavaScript | [Read](https://developer.mozilla.org/docs/Web/javascript)  | [Download](https://github.com/asa55/mdn-javascript-docs-as-flashcards/releases)
-Terraform                       | [Read](https://developer.hashicorp.com/terraform/language) | [Download](https://github.com/asa55/terraform-language-docs-as-flashcards/releases)
+Topic      | Official Docs                                              | as Flashcards
+---        | ---                                                        | ---
+C#         | [Read](https://learn.microsoft.com/en-us/dotnet/csharp/)   | [Download](https://github.com/asa55/c-sharp-docs-as-flashcards/releases)
+JavaScript | [Read](https://developer.mozilla.org/docs/Web/javascript)  | [Download](https://github.com/asa55/mdn-javascript-docs-as-flashcards/releases)
+Terraform  | [Read](https://developer.hashicorp.com/terraform/language) | [Download](https://github.com/asa55/terraform-language-docs-as-flashcards/releases)
 
 ## Microsoft
 
