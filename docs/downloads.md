@@ -44,7 +44,7 @@ Virtual Network         | [Read](https://learn.microsoft.com/azure/virtual-netwo
 Topic                          | Official Docs                                                                                  | as Flashcards
 ---                            | ---                                                                                            | ---
 Managed Identities             | [Read](https://learn.microsoft.com/azure/active-directory/managed-identities-azure-resources/) | [Download](https://github.com/asa55/azure-managed-identities-docs-as-flashcards/releases)
-Privileged Identity Management | [Read](https://learn.microsoft.com/azure/active-directory/privileged-identity-management/)     | [Download](https://github.com/asa55/privileged-identity-management-docs-as-flashcards/releases)
+Privileged Identity Management | [Read](https://learn.microsoft.com/azure/active-directory/privileged-identity-management/)     | [Download](https://github.com/asa55/azure-privileged-identity-management-docs-as-flashcards/releases)
 
 ## Mozilla Developer Network
 
