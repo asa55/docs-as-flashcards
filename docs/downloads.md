@@ -6,6 +6,8 @@ nav_order: 2
 
 # Download Flashcards
 
+**If you want to download all of the content shown below in one single `.apkg`, you'll find [everything contained in the `flashcards.zip` file here](https://github.com/asa55/docs-as-flashcards/releases/)**.
+
 ## Languages
 
 Topic      | Official Docs                                              | as Flashcards
