@@ -20,8 +20,9 @@ For working professionals bored to tears by docs who need to learn them anyways 
 - First, download the **free** open-source Anki flashcard app
   - For desktop from [Anki's website](https://apps.ankiweb.net/) or [Chocolatey](https://community.chocolatey.org/packages/anki/)
   - Or for mobile from any app store (my preference 🤠)
-- Then, [**download flashcard decks here**](./docs/downloads)
+- Then, [**download all flashcards here (🚀Recommended🚀)**](https://github.com/asa55/docs-as-flashcards/releases/)
   - Or from any `*-docs-as-flashcards` repository
+  - Or [download individual flashcard decks here](./docs/downloads)
 - Last, from Anki, import flashcards
   - And that's it! You're up and running.
 
