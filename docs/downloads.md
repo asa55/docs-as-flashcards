@@ -34,6 +34,7 @@ Key Vault               | [Read](https://learn.microsoft.com/azure/key-vault/gen
 Logic Apps              | [Read](https://learn.microsoft.com/en-us/azure/logic-apps/)                                    | [Download](https://github.com/asa55/azure-logic-apps-docs-as-flashcards/releases)
 Policy                  | [Read](https://learn.microsoft.com/azure/governance/policy/)                                   | [Download](https://github.com/asa55/azure-policy-docs-as-flashcards/releases)
 Private Link            | [Read](https://learn.microsoft.com/en-us/azure/private-link/)                                  | [Download](https://github.com/asa55/azure-private-link-docs-as-flashcards/releases)
+REST API                | [Read](https://learn.microsoft.com/rest/api/azure/)                                            | [Download](https://github.com/asa55/azure-rest-api-docs-as-flashcards/releases)
 Service Bus             | [Read](https://learn.microsoft.com/azure/service-bus-messaging/)                               | [Download](https://github.com/asa55/azure-service-bus-docs-as-flashcards/releases)
 Virtual Machines        | [Read](https://learn.microsoft.com/azure/virtual-machines/)                                    | [Download](https://github.com/asa55/azure-virtual-machines-docs-as-flashcards/releases)
 Virtual Network         | [Read](https://learn.microsoft.com/azure/virtual-network/)                                     | [Download](https://github.com/asa55/azure-virtual-network-docs-as-flashcards/releases)
